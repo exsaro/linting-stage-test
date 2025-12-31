@@ -1,3 +1,2 @@
-#!/bin/sh
-cd my-app || exit 1
-npm run lint
+echo "HUSKY WORKING"
+exit 1
